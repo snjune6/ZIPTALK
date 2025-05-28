@@ -1,0 +1,17 @@
+{
+    "name": "kkkk/jibtalk",
+    "autoload": {
+        "psr-4": {
+            "src\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "kkkk",
+            "email": "snjune6@gmail.com"
+        }
+    ],
+    "require": {
+        "altorouter/altorouter": "^2.0"
+    }
+}

@@ -1,0 +1,7 @@
+RewriteEngine On
+RewriteBase /
+
+
+
+# 나머지는 모두 public/index.php로
+RewriteRule ^(.*)$ router.php [QSA,L]
